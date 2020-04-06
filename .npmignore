@@ -2,9 +2,6 @@ tmp
 .git
 node_modules
 
-!lerna.json
-!.*rc.js
+!index.js
 !package.json
 !package-lock.json
-
-

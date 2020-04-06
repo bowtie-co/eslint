@@ -1,11 +1,13 @@
 {
-  "name": "root",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Bowtie ESLint Rules",
+  "name": "@bowtie/eslint",
+  "version": "1.3.0",
+  "description": "Bowtie ESLint Configuration",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Bowtie",
+  "license": "MIT",
+  "homepage": "https://github.com/bowtie-co/eslint#readme",
+  "bugs": {
+    "url": "https://github.com/bowtie-co/eslint/issues"
   },
   "repository": {
     "type": "git",
@@ -23,21 +25,6 @@
     "prettier",
     "eslintconfig"
   ],
-  "author": "Bowtie",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bowtie-co/eslint/issues"
-  },
-  "homepage": "https://github.com/bowtie-co/eslint#readme",
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": ">=2",
-    "@typescript-eslint/parser": ">=2",
-    "eslint": ">=6",
-    "eslint-config-prettier": ">=6",
-    "eslint-plugin-prettier": ">=3",
-    "lerna": "^3.20.2",
-    "prettier": ">=2"
-  },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": ">=2",
     "@typescript-eslint/parser": ">=2",
