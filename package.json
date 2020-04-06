@@ -1,0 +1,49 @@
+{
+  "name": "root",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Bowtie ESLint Rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowtie-co/eslint.git"
+  },
+  "keywords": [
+    "lint",
+    "hint",
+    "rules",
+    "bowtie",
+    "eslint",
+    "syntax",
+    "pretty",
+    "quality",
+    "prettier",
+    "eslintconfig"
+  ],
+  "author": "Bowtie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bowtie-co/eslint/issues"
+  },
+  "homepage": "https://github.com/bowtie-co/eslint#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": ">=2",
+    "@typescript-eslint/parser": ">=2",
+    "eslint": ">=6",
+    "eslint-config-prettier": ">=6",
+    "eslint-plugin-prettier": ">=3",
+    "lerna": "^3.20.2",
+    "prettier": ">=2"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">=2",
+    "@typescript-eslint/parser": ">=2",
+    "eslint": ">=6",
+    "eslint-config-prettier": ">=6",
+    "eslint-plugin-prettier": ">=3",
+    "prettier": ">=2"
+  }
+}
