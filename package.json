@@ -3,7 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "description": "Bowtie ESLint Rules",
-  "main": "index.js",
+  "main": ".eslint.js",
+  "files": [ ".eslintrc.js", ".prettierrc.js" ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
