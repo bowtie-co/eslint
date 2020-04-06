@@ -1,5 +1,5 @@
 {
-  "name": "@bowtie/eslint",
+  "name": "eslint-config-bowtie",
   "version": "1.4.0",
   "description": "Bowtie ESLint Configuration",
   "main": "index.js",
