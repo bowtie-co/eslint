@@ -1,3 +1,5 @@
 {
-  "name": "eslint-config-bowtie"
+  "name": "eslint-config-bowtie",
+  "version": "1.0.0",
+  "description": "Bowtie ESLint Rules"
 }
