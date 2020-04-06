@@ -1,6 +1,5 @@
 {
   "name": "@bowtie/prettier",
   "version": "1.2.0",
-  "description": "Bowtie Prettier Linting Rules",
-  "main": "../.prettierrc.js"
+  "description": "Bowtie Prettier Linting Rules"
 }

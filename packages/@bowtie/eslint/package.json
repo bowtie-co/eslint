@@ -1,6 +1,5 @@
 {
   "name": "@bowtie/eslint",
   "version": "1.2.0",
-  "description": "Bowtie ESLint Rules",
-  "main": "../.eslintrc.js"
+  "description": "Bowtie ESLint Rules"
 }
