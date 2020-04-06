@@ -1,0 +1,10 @@
+tmp
+.git
+node_modules
+
+!lerna.json
+!.*rc.js
+!package.json
+!package-lock.json
+
+
