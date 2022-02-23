@@ -26,11 +26,11 @@
     "eslintconfig"
   ],
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": ">=2",
-    "@typescript-eslint/parser": ">=2",
-    "eslint": ">=6",
-    "eslint-config-prettier": ">=6",
-    "eslint-plugin-prettier": ">=3",
+    "@typescript-eslint/eslint-plugin": ">=5",
+    "@typescript-eslint/parser": ">=5",
+    "eslint": ">=8",
+    "eslint-config-prettier": ">=8",
+    "eslint-plugin-prettier": ">=4",
     "prettier": ">=2"
   }
 }
